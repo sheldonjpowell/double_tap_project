@@ -1,0 +1,77 @@
+
+
+
+.username{
+    position: relative;
+}
+
+.username input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.username .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.email{
+    position: relative;
+}
+
+.email input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.email .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.password{
+    position: relative;
+}
+
+.password input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.password .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.form-group input{
+    border-radius: 50px 50px 50px 50px;
+}
+
+.sign-up-btn button{
+    background-color: rgb(23, 23, 186);
+    height: 50px;
+    width: 170px;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    border-radius: 50px 50px 50px 50px;
+    font-size: large;
+}
+
+.social-text{
+    font-size: 15px;
+}
+
+
+.social-buttons button{
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+}
+
+.social-buttons button:hover{
+    border: 2px solid blue;
+}
