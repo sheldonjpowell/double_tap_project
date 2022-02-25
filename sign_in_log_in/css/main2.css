@@ -51,7 +51,7 @@
 }
 
 .sign-up-btn button{
-    background-color: rgb(23, 23, 186);
+    background-color: royalblue;
     height: 50px;
     width: 170px;
     display: inline-block;
@@ -59,6 +59,10 @@
     padding: 0;
     border-radius: 50px 50px 50px 50px;
     font-size: large;
+}
+
+.sign-up-btn button:hover{
+    background-color: darkblue;
 }
 
 .social-text{
@@ -73,5 +77,30 @@
 }
 
 .social-buttons button:hover{
-    border: 2px solid blue;
+    border: 2px solid darkblue;
+}
+
+.bg-img{
+    background-color: royalblue;
+    clip-path: ellipse(85% 91% at 9% 9%);
+    height: 100vh;
+    position: absolute;
+}
+
+.bg-text{
+    position: relative;
+    text-align: center;
+    left: -20%;
+}
+
+.bg-text button{
+    border: 1px solid white;
+    height: 40px;
+    width: 150px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: large;
+}
+
+.bg-text button:hover{
+    background-color: darkblue;
 }
