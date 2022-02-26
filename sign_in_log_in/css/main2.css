@@ -1,0 +1,106 @@
+
+
+
+.username{
+    position: relative;
+}
+
+.username input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.username .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.email{
+    position: relative;
+}
+
+.email input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.email .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.password{
+    position: relative;
+}
+
+.password input{
+    height: 40px;
+    text-indent: 25px;
+}
+
+.password .fa{
+    position: absolute;
+    top: 16px;
+    left: 16px;
+}
+
+.form-group input{
+    border-radius: 50px 50px 50px 50px;
+}
+
+.sign-up-btn button{
+    background-color: royalblue;
+    height: 50px;
+    width: 170px;
+    display: inline-block;
+    text-align: center;
+    padding: 0;
+    border-radius: 50px 50px 50px 50px;
+    font-size: large;
+}
+
+.sign-up-btn button:hover{
+    background-color: darkblue;
+}
+
+.social-text{
+    font-size: 15px;
+}
+
+
+.social-buttons button{
+    border: 1px solid black;
+    height: 60px;
+    width: 60px;
+}
+
+.social-buttons button:hover{
+    border: 2px solid darkblue;
+}
+
+.bg-img{
+    background-color: royalblue;
+    clip-path: ellipse(85% 91% at 9% 9%);
+    height: 100vh;
+    position: absolute;
+}
+
+.bg-text{
+    position: relative;
+    text-align: center;
+    left: -20%;
+}
+
+.bg-text button{
+    border: 1px solid white;
+    height: 40px;
+    width: 150px;
+    border-radius: 50px 50px 50px 50px;
+    font-size: large;
+}
+
+.bg-text button:hover{
+    background-color: darkblue;
+}
