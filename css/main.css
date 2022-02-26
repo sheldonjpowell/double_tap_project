@@ -1,3 +1,10 @@
+.container2{
+    /* display:grid;
+    justify-content: center;
+    grid-gap: .25em;
+    grid-template-columns: repeat(auto-fit, 8em);
+    border: 2px solid; */
+}
 .dot {
     height: 5px;
     width: 5px;
@@ -23,6 +30,22 @@
 
 
 }
-.footer .row{
-    height: 100px;
+
+.circle-def .fa{
+    
+    display:flex;
+    color:blue;
+    
+}
+.circle-def{
+    background-color: rgba(127, 255, 212, 0.342);
+    display: inline-block;
+    border: 1px solid rgba(99, 99, 99, 0.39);
+    
+    
+}
+.footer{
+    border-bottom: 500px;
+    color: black;
+    height:100px ;
 }
