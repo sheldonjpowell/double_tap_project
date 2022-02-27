@@ -1,10 +1,10 @@
-.container2{
+/* .container2{ */
     /* display:grid;
     justify-content: center;
     grid-gap: .25em;
     grid-template-columns: repeat(auto-fit, 8em);
     border: 2px solid; */
-}
+/* } */
 .dot {
     height: 5px;
     width: 5px;
@@ -25,7 +25,6 @@
 }
 .social-buttons .dollar{
     position: absolute;
-    
     height:100px;
 
 
@@ -34,11 +33,11 @@
 .circle-def .fa{
     
     display:flex;
-    color:blue;
+    color: rgb(0, 128, 255);
     
 }
 .circle-def{
-    background-color: rgba(127, 255, 212, 0.342);
+    background-color: rgba(0, 128, 255, 0.123);
     display: inline-block;
     border: 1px solid rgba(99, 99, 99, 0.39);
     
