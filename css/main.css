@@ -33,7 +33,7 @@
 .circle-def .fa{
     
     display:flex;
-    color: rgb(0, 128, 255);
+    color: #0750F8;
     
 }
 .circle-def{
@@ -43,18 +43,15 @@
     
     
 }
-.footer{
-    border-bottom: 500px;
-    color: black;
-    height:100px ;
-}
 
 .grid-container{
     display: grid;
-    
     grid-template: 1fr 1fr 1fr 1fr;
-    
-    
+       
+}
+
+.card{
+    border: none;
 }
 .col-md-8{
     background-color: #0750F8;
@@ -62,6 +59,10 @@
     border-bottom-right-radius: 5%;
 }
 
-.card{
-    border: none;
+footer{
+    background-color: #0750F8;
+}
+
+.container .button-1 .button-2 .button-3 .button-4{
+    background-color: #0750F8;
 }

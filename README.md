@@ -4,10 +4,11 @@
 
 *Sheldon 
   - Did the header and footer
-  - Worked on the first page (landing)
+  - Worked on the first page body (Landing)
 
 *Katelyn
-  - Worked on the Last two pages (Signin and Login
+  - Worked on the Last two pages (Signin and Login)
 
 *Tugce
-  - Worked on the second page (How it Works)
+  - Worked on the first page and second page body section (How it Works)
+  - 
