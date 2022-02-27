@@ -8,7 +8,7 @@
 .dot {
     height: 5px;
     width: 5px;
-    background-color: blue;
+    background-color: #0750F8;
     border-radius: 50%;
     display: inline-block;
 
@@ -51,7 +51,17 @@
 
 .grid-container{
     display: grid;
+    
     grid-template: 1fr 1fr 1fr 1fr;
     
     
+}
+.col-md-8{
+    background-color: #0750F8;
+    border-top-right-radius: 5%;
+    border-bottom-right-radius: 5%;
+}
+
+.card{
+    border: none;
 }
